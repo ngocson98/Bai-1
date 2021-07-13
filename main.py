@@ -1,4 +1,4 @@
-from newspaper import Article
+# from newspaper import Article
 import requests
 from bs4 import BeautifulSoup
 import csv
