@@ -50,7 +50,7 @@ print(len(feeds_des))
 for i in range(len(feed_title)):
     print(feed_title[i])
     print(feeds_des[i])
-    print(feed_link[i])
+    # print(feed_link[i])
     print('-'*15)
 
 # SQL command to insert the data in the table
